@@ -1,0 +1,33 @@
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmPrincipal.resources
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmAltaAlumno.resources
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\BackendClases.dll
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\BackendClases.pdb
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmListarAlumnos.resources
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmCobro.resources
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmOpcionesDeVistas.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\BackendClases.dll
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\bin\Debug\BackendClases.pdb
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmPrincipal.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmAltaAlumno.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmCobro.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmListarAlumnos.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.FrmOpcionesDeVistas.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\FrontEnd\obj\Debug\FrontEnd.pdb

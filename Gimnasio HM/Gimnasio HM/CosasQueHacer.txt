@@ -1,7 +1,0 @@
-Cosas que Hacer:
-
-1_ ALta de Alumnos
-2_ Modificacion de Alumnos
-3_ Ingresar pago de alumnos
-4_ Listar los pagos del alumno
-5_ Heladera

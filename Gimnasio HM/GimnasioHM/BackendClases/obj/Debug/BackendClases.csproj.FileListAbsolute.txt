@@ -1,0 +1,11 @@
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.csprojAssemblyReference.cache
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\BackendClases\bin\Debug\BackendClases.dll
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\BackendClases\bin\Debug\BackendClases.pdb
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.dll
+C:\Users\TCiarlo\Desktop\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.pdb
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\BackendClases\bin\Debug\BackendClases.dll
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\BackendClases\bin\Debug\BackendClases.pdb
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.dll
+C:\Users\Thomas\Desktop\Gimnasio HM\Gimnasio HM\GimnasioHM\BackendClases\obj\Debug\BackendClases.pdb
